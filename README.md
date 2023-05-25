@@ -19,7 +19,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=javascript)
+![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=javascript)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Mysql](https://img.shields.io/badge/-Mysql-%23282C34?style=flat-square&logo=mysql)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-%23282C34?style=flat-square&logo=mongodb)

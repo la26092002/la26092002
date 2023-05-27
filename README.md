@@ -18,6 +18,7 @@
 ### Languages and Tools 🛠 : 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=javascript)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
